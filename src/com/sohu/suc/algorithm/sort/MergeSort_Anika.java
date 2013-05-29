@@ -24,7 +24,7 @@ public class MergeSort_Anika {
 	}
 	
 	public int[] merge(int[]left,int []right){
-		int[]mergearray=new int[left.length+right.length];
+		int[] mergearray=new int[left.length+right.length];
 		int left_cur = 0;
 		int right_cur = 0;
 		for(int i = 0; i <left.length + right.length;i++){
