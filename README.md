@@ -1,4 +1,5 @@
 JavaPractice
 ============
-sort test
-concurrent test
+.Sort Algorithm Test
+.Concurrent Test
+.DesignPattern Demo
