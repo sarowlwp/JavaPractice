@@ -2,6 +2,7 @@ package com.sohu.suc.designpattern;
 
 /**
  * 单例模式
+ * 
  * @author wenpingliu
  *
  */
