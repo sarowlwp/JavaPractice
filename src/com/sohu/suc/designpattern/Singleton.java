@@ -18,12 +18,12 @@ public class Singleton {
 	//对外获取单例对象的方法
 	public static Singleton getInstance(){
 		if(self == null){
-			self = new Singleton();
-			return self;
-		}else{
-			return self;
+			synchronized (Singleton.class) {
+				self = new Singleton();
+				return self;	
+			}
 		}
+		return self;
 	}
 }
-
 
