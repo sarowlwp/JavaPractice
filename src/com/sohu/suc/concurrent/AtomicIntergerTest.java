@@ -3,9 +3,9 @@
  */
 package com.sohu.suc.concurrent;
 
-import java.util.concurrent.atomic.AtomicInteger;
-
 import org.junit.Test;
+
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @author wenpingliu
