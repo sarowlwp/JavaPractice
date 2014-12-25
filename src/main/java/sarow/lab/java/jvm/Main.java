@@ -4,6 +4,8 @@
  */
 package sarow.lab.java.jvm;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -25,6 +27,10 @@ public class Main {
         System.out.println(test.get(object));
         System.out.println(test.size());
         System.out.println(test.get(object2));
+        int a;
+        System.out.println();
+        FileReader reader;
+        BufferedReader reader2;
 
     }
 }

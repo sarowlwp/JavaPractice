@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="xom-1.2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/xom-1.2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jaxen-1.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/dom4j-20040902.021138.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/junit-4.12-beta-3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
